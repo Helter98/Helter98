@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Helter Xavier ✌️
-  - Estudo Engenharia de Software desde de maio 2021. 
-  - Apaixonado por tecnologia e buscando me desenvolver como profissional na área.
+ Apaixonado por tecnologia e buscando me desenvolver como profissional na área.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helter-xavier-a05829144/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hertz_bx/)
